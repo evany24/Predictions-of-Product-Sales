@@ -22,3 +22,9 @@ This report was created to help food retailers increase their total sales by pre
 
 This plot shows the distribution of items sold by their fat content. The items were grouped into 2 categories, Low Fat and Regular. 
 
+**How does Item MRP affect Item Outlet Sales?**
+
+There is a postive correlation between Item MRP and Item Outlet Sales which means as Item MRP increases so do Item Outlet Sales.
+
+![Item MRP vs Item Outlet Sales
+
