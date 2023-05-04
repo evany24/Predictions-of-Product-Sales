@@ -24,7 +24,7 @@ This report was created to help food retailers increase their total sales by pre
 
 # **Explanatory Data Analysis**:
 
-## **Questions that can be answered:**
+## **Questions:**
 
 **How does Item MRP affect Item Outlet Sales?**
 
