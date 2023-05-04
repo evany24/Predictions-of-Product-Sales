@@ -12,7 +12,7 @@ This report was created to help food retailers increase their total sales by pre
 
 ## **Data Dictionary**
 
-![data dictionary]https://github.com/evany24/Predictions-of-Product-Sales/blob/main/data%20dictionary.png)
+![data dictionary](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/data%20dictionary.png)
 
 # **Exploratory Data Analysis**:
 - An exploratory data analysis was done on the data. Boxplots and histograms were created to help understand distributions of numeric data, while barplots were created for categoric data
