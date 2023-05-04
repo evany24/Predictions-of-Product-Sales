@@ -28,15 +28,15 @@ This plot shows the distribution of items sold by their fat content. The items w
 
 **How does Item MRP affect Item Outlet Sales?**
 
-There is a postive correlation between Item MRP and Item Outlet Sales which means as Item MRP increases so do Item Outlet Sales.
-
 ![Item MRP vs Item Outlet Sales](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Item%20MRP%20vs%20Item%20Outlet%20Sales.png)
+
+ - There is a postive correlation between Item MRP and Item Outlet Sales which means as Item MRP increases so do Item Outlet Sales.
 
 **Is there a correlation between Item Visibility and Item Outlet Sales?**
 
-![Item Visibility vs Item Outlet Sales](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Item%20Visibility%20vs%20Item%20Outlet%20Sales.png)
+ - There is a slightly negative correlation between Item Visibilty and Item Outlet Sales. This means that as Item Visibility increases the Item Outlet Sales decrease. This correlation is opposite but much smaller in comparison to the correlation of Item MRP on Item Outlet Sales.
 
-There is a slightly negative correlation between Item Visibilty and Item Outlet Sales. This means that as Item Visibility increases the Item Outlet Sales decrease. This correlation is opposite but much smaller in comparison to the correlation of Item MRP on Item Outlet Sales.
+![Item Visibility vs Item Outlet Sales](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Item%20Visibility%20vs%20Item%20Outlet%20Sales.png)
 
 **What Item Types have the highest and lowest sales?**
 
