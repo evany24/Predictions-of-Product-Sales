@@ -20,7 +20,7 @@ This report was created to help food retailers increase their total sales by pre
 
 ![Item Fat Content Distribution](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Item%20Fat%20Content%20Distribution.png)
 
-This plot shows the distribution of items sold by their fat content. The items were grouped into 2 categories, Low Fat and Regular.
+ - This plot shows the distribution of items sold by their fat content. The items were grouped into 2 categories, Low Fat and Regular.
 
 # **Explanatory Data Analysis**:
 
