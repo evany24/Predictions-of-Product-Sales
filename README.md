@@ -24,7 +24,7 @@ This plot shows the distribution of items sold by their fat content. The items w
 
 # **Explanatory Data Analysis**:
 
-## **Questions that can be answered.**
+## **Questions that can be answered:**
 
 **How does Item MRP affect Item Outlet Sales?**
 
