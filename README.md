@@ -34,9 +34,9 @@ This report was created to help food retailers increase their total sales by pre
 
 **Is there a correlation between Item Visibility and Item Outlet Sales?**
 
- - There is a slightly negative correlation between Item Visibilty and Item Outlet Sales. This means that as Item Visibility increases the Item Outlet Sales decrease. This correlation is opposite but much smaller in comparison to the correlation of Item MRP on Item Outlet Sales.
-
 ![Item Visibility vs Item Outlet Sales](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Item%20Visibility%20vs%20Item%20Outlet%20Sales.png)
+
+ - There is a slightly negative correlation between Item Visibilty and Item Outlet Sales. This means that as Item Visibility increases the Item Outlet Sales decrease. This correlation is opposite but much smaller in comparison to the correlation of Item MRP on Item Outlet Sales.
 
 **What Item Types have the highest and lowest sales?**
 
