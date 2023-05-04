@@ -7,10 +7,10 @@
 
 This report was created to help food retailers increase their total sales by predicting what item and store features are impacting sales.
 
-## **Source of Data**
-![sales_prediction-2023.csv(https://github.com/evany24/Predictions-of-Product-Sales/blob/main/sales_predictions_2023.csv)
+## **Source of Data:**
+![sales_prediction-2023.csv](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/sales_predictions_2023.csv)
 
-## **Data Dictionary**
+## **Data Dictionary:**
 
 ![data dictionary](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/data%20dictionary.png)
 
