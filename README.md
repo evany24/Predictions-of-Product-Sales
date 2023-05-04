@@ -1,2 +1,3 @@
 # Predictions-of-Product-Sales
-Prediction of sales
+#### Prediction of sales
+!Data Dictionary 
