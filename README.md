@@ -34,6 +34,10 @@ This report was created to help food retailers increase their total sales by pre
 
 **Is there a correlation between Item Visibility and Item Outlet Sales?**
 
+## **Correlation Heatmap**
+
+![Product Sales Correlations.png](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Product%20Sales%20Correlations.png)
+
 ![Item Visibility vs Item Outlet Sales](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Item%20Visibility%20vs%20Item%20Outlet%20Sales.png)
 
  - There is a slightly negative correlation between Item Visibilty and Item Outlet Sales. This means that as Item Visibility increases the Item Outlet Sales decrease. This correlation is opposite but much smaller in comparison to the correlation of Item MRP on Item Outlet Sales.
@@ -42,25 +46,25 @@ This report was created to help food retailers increase their total sales by pre
 
 ![Item Outlet Sales by Item Type](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Item%20Outlet%20Sales%20by%20Item%20Type.png)
 
-Fruits and vegetables have the highest Item Outlet Sales and are 15.17% of all sales followed by Snack Foods at 14.70% and Household items at 11.06%. Breakfast items and Seafood items have the lowest Item Outlet Sales with 1.25% and 0.80% respectively.
+ - Fruits and vegetables have the highest Item Outlet Sales and are 15.17% of all sales followed by Snack Foods at 14.70% and Household items at 11.06%. Breakfast items and Seafood items have the lowest Item Outlet Sales with 1.25% and 0.80% respectively.
 
 **Which Outlet Size has the highest and lowest sales?**
 
 ![Item Outlet Sales by Outlet Size](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Item%20Outlet%20Sales%20by%20Outlet%20Size.png)
 
-Medium size stores have the highest item sales accounting for 40.29% of all sales. Next are small stores with 24.56% followed by uncategorized stores at 23.63%. The large stores account for only 11.52% of total item sales.
+ - Medium size stores have the highest item sales accounting for 40.29% of all sales. Next are small stores with 24.56% followed by uncategorized stores at 23.63%. The large stores account for only 11.52% of total item sales.
 
 **What Outlet Types having the highest and lowest sales?**
 
 ![Item Outlet Sales by Outlet Type](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Item%20Outlet%20Sales%20by%20Outlet%20Type.png)
 
-Supermarket Type 1 stores have the highest item sales accounting for 69.48% of total sales. There is a large drop off with Supermarket Type 3 store sales at 18.58%, Supermarket Type 2 store sales at 9.96% and lastly grocery store sales at 1.98%
+ - Supermarket Type 1 stores have the highest item sales accounting for 69.48% of total sales. There is a large drop off with Supermarket Type 3 store sales at 18.58%, Supermarket Type 2 store sales at 9.96% and lastly grocery store sales at 1.98%
 
 **What is the comparison of Item Outlet Sales when looking at Item Fat Content?**
 
 [Item Outlet Sales by Item Fat Content](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Item%20Outlet%20Sales%20by%20Item%20Fat%20Content.png)
 
-Low Fat item sales are almost double that of regular fat items. Low Fat items account for 64.03% of total item sales while Regular items account for only 35.97%
+ - Low Fat item sales are almost double that of regular fat items. Low Fat items account for 64.03% of total item sales while Regular items account for only 35.97%
 
 ## **Summary of analysis.**
 
