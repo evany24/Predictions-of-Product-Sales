@@ -62,7 +62,7 @@ This report was created to help food retailers increase their total sales by pre
 
 **What is the comparison of Item Outlet Sales when looking at Item Fat Content?**
 
-[Item Outlet Sales by Item Fat Content](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Item%20Outlet%20Sales%20by%20Item%20Fat%20Content.png)
+![Item Outlet Sales by Item Fat Content](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Item%20Outlet%20Sales%20by%20Item%20Fat%20Content.png)
 
  - Low Fat item sales are almost double that of regular fat items. Low Fat items account for 64.03% of total item sales while Regular items account for only 35.97%
 
