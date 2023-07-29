@@ -110,3 +110,5 @@ Interpreting Our Model's Coefficients
 
 ![Linear Regression Coefficients](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/def%20imports.png)
 
+![Permutation Importances](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/perf%20import.png)
+
