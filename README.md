@@ -123,3 +123,17 @@ Interpreting Our Model's Coefficients
 ![Permutation Feature Importances](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/perf%20import.png)
 
 - The top 5 permutation importances match the default feature importances. When dealing with permutation importances the features are valued higher.
+
+![Shap Summary Plot](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/summary%20plot.png)
+
+- The SHAP plot has the same two top features and puts Outlet_Identifier_OUT027 higher than the other plots. It also show Item Visibility and Item Weight as less important features on Item Sales.
+
+![Shap Summary Dot Plot](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/dot%20plot.png)
+
+- The top 3 features are:
+- **Item MRP:**
+ - As Item MRP increases so does the target value of Item Outlet Sales, as it decreases so do Item Outlet Sales.
+- **Outlet Type Grocery Store**
+ - For Outlets that identify as grocery stores the target of Item Outlet Sales decreases. For outlets that classify themselves as non Grocery type stores Item Outlet Sales increase
+- **Outlet Identifier OUT027**
+ - This is a binary, is or not is feature like Grocery stores. For these outlets that are labeled with this identifier sales go up and the opposite for not being this particular identifier.
