@@ -114,11 +114,11 @@ Interpreting Our Model's Coefficients
 ![Random Forest Decision Tree Feature Importances](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/def%20imports.png)
 
 - The top 5 Importances for the default random forest model are:
- - **Item_MRP**
- - **Outlet_Type_Grocery_Store**
- - **Item Visibility**
- - **Item Weight**
- - **Outlet Identifier OUT027**
+  - **Item_MRP**
+  - **Outlet_Type_Grocery_Store**
+  - **Item Visibility**
+  - **Item Weight**
+  - **Outlet Identifier OUT027**
 
 ![Permutation Feature Importances](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/perf%20import.png)
 
