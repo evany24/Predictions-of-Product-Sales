@@ -123,6 +123,8 @@ Interpreting Our Model's Coefficients
 ![Permutation Feature Importances](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/perf%20import.png)
 
 - The top 5 permutation importances match the default feature importances. When dealing with permutation importances the features are valued higher.
+  
+## Project 1 Revisited Part 2: Explaining Models with SHAP
 
 ![Shap Summary Plot](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/summary%20plot.png)
 
