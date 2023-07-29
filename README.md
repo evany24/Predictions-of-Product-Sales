@@ -130,10 +130,10 @@ Interpreting Our Model's Coefficients
 
 ![Shap Summary Dot Plot](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/dot%20plot.png)
 
-- The top 3 features are:
+The top 3 features are:
 - **Item MRP:**
- - As Item MRP increases so does the target value of Item Outlet Sales, as it decreases so do Item Outlet Sales.
+  - As Item MRP increases so does the target value of Item Outlet Sales, as it decreases so do Item Outlet Sales.
 - **Outlet Type Grocery Store**
- - For Outlets that identify as grocery stores the target of Item Outlet Sales decreases. For outlets that classify themselves as non Grocery type stores Item Outlet Sales increase
+  - For Outlets that identify as grocery stores the target of Item Outlet Sales decreases. For outlets that classify themselves as non Grocery type stores Item Outlet Sales increase
 - **Outlet Identifier OUT027**
- - This is a binary, is or not is feature like Grocery stores. For these outlets that are labeled with this identifier sales go up and the opposite for not being this particular identifier.
+  - This is a binary, is or not is feature like Grocery stores. For these outlets that are labeled with this identifier sales go up and the opposite for not being this particular identifier.
