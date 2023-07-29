@@ -98,6 +98,15 @@ This report was created to help food retailers increase their total sales by pre
   - THE MSE and RMSE are slightly lower for the decision tree model, meaning that the decision tree model may be handling any higher outliers in check.
   - The R2 score of close to 60 percent for the decision tree model also beats out the 55 percent R2 score for the linear regression model. This higher score while not a great way to explain the decision tree model being much better helps its validity.
 
+## Project Revisited
+**Linear Regression Model:**
+Interpreting Our Model's Coefficients
+- The top 3 most impactful features are:
+    - **Outlet_Type_Supermarket_Type1:** If an item is being sold in this this Supermarket_Type1 my model predicts  there will be an increase in revenue of 925.32 Rupees.
+    
+    - **Outlet_Type_Supermarket_Type3:** If an item is being sold in this supermarket type3  my model predicts that there will be an increase in revenue of 900.79 Rupees.
+    
+    - **Outlet_Identifier_OUT027:** If an item is being sold in OUT027 Identifier my model predicts that there will be an increase of 900.79 Rupees in revenue.
 
 
 
