@@ -108,5 +108,5 @@ Interpreting Our Model's Coefficients
     
     - **Outlet_Identifier_OUT027:** If an item is being sold in OUT027 Identifier my model predicts that there will be an increase of 900.79 Rupees in revenue.
 
-
+![Linear Regression Coefficients](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/def%20imports.png)
 
