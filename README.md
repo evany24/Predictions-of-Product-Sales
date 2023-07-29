@@ -1,4 +1,4 @@
-# **Prediction of Product Sales**
+d# **Prediction of Product Sales**
 - **Author:** Evan Yeslow
 - **Email** evany24@gmail.com
 - **LinkedIn** https://www.linkedin.com/in/evan-yeslow-093388248/
@@ -101,6 +101,9 @@ This report was created to help food retailers increase their total sales by pre
 ## Project Revisited
 **Linear Regression Model:**
 Interpreting Our Model's Coefficients
+
+![Linear Regression Coefficients](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/coeffs.png)
+
 - The top 3 most impactful features are:
     - **Outlet_Type_Supermarket_Type1:** If an item is being sold in this this Supermarket_Type1 my model predicts  there will be an increase in revenue of 925.32 Rupees.
     
@@ -108,7 +111,15 @@ Interpreting Our Model's Coefficients
     
     - **Outlet_Identifier_OUT027:** If an item is being sold in OUT027 Identifier my model predicts that there will be an increase of 900.79 Rupees in revenue.
 
-![Linear Regression Coefficients](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/coeffs.png)
-
 ![Random Forest Decision Tree Feature Importances](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/def%20imports.png)
 
+- The top 5 Importances for the default random forest model are:
+ - **Item_MRP**
+ - **Outlet_Type_Grocery_Store**
+ - **Item Visibility**
+ - **Item Weight**
+ - **Outlet Identifier OUT027**
+
+![Permutation Feature Importances](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/perf%20import.png)
+
+- The top 5 permutation importances match the default feature importances. When dealing with permutation importances the features are valued higher.
