@@ -139,3 +139,8 @@ The top 3 features are:
   - For Outlets that identify as grocery stores the target of Item Outlet Sales decreases. For outlets that classify themselves as non Grocery type stores Item Outlet Sales increase
 - **Outlet Identifier OUT027**
   - This is a binary, is or not is feature like Grocery stores. For these outlets that are labeled with this identifier sales go up and the opposite for not being this particular identifier.
+
+![High Sales Force Plot](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/high_sales_force_plot.png)
+
+![Low Sales Force Plot](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/low_sales_force_plot.png)
+
