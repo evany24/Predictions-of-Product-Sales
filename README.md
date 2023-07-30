@@ -128,6 +128,7 @@ Interpreting Our Model's Coefficients
 
 ### Global Explanations
 
+*SHAP Summary Plot*
 ![Shap Summary Plot](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/summary%20plot.png)
 
 - The SHAP plot has the same two top features and puts Outlet_Identifier_OUT027 higher than the other plots. It also show Item Visibility and Item Weight as less important features on Item Sales.
