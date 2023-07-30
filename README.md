@@ -142,14 +142,20 @@ The top 3 features are:
 
 ![High Sales Force Plot](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/high_sales_force_plot.png)
 
-- This force plots represents the highest selling store in our sample.
- - The SHAP value is 6,693 which is well over the base value.
- - The features that are affecting the sales in a positive direction are:
+This force plots represents the highest selling store in our sample.
+ - The SHAP value is 6,693 which is well over the base value. The features that are affecting the sales in a positive direction are:
   - Item MRP
   - Item Visibility
   - Item Weight
   - If it is NOT an Outlet Type Grocery Store
   - If it is NOT an Outlet with identifier OUT045
 
+[High Sales Lime Tabular Explanation]
+
 ![Low Sales Force Plot](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/low_sales_force_plot.png)
+
+This force plots represents the lowest selling store in our sample.
+ - The SHAP value is 63.42 which is well under the base value. The features that are affecting the sales in a negative direction are:
+  - Item MRP
+  - That it is an Outlet Type Grocery Store
 
