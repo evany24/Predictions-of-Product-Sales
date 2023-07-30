@@ -124,7 +124,9 @@ Interpreting Our Model's Coefficients
 
 - The top 5 permutation importances match the default feature importances. When dealing with permutation importances the features are valued higher.
   
-## Project 1 Revisited Part 2: Explaining Models with SHAP
+## Explaining Models with SHAP
+
+### Global Explanations
 
 ![Shap Summary Plot](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/summary%20plot.png)
 
@@ -140,6 +142,8 @@ The top 3 features are:
 - **Outlet Identifier OUT027**
   - This is a binary, is or not is feature like Grocery stores. For these outlets that are labeled with this identifier sales go up and the opposite for not being this particular identifier.
 
+### Local Explanations
+
 ![High Sales Force Plot](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/high_sales_force_plot.png)
 
 This force plots represents the highest selling store in our sample.
@@ -150,7 +154,7 @@ This force plots represents the highest selling store in our sample.
   - If it is NOT an Outlet Type Grocery Store
   - If it is NOT an Outlet with identifier OUT045
 
-[High Sales Lime Tabular Explanation]
+![High Sales Lime Tabular Explanation](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/high_sales_lime.png)
 
 ![Low Sales Force Plot](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/low_sales_force_plot.png)
 
@@ -158,4 +162,8 @@ This force plots represents the lowest selling store in our sample.
  - The SHAP value is 63.42 which is well under the base value. The features that are affecting the sales in a negative direction are:
   - Item MRP
   - That it is an Outlet Type Grocery Store
+
+![Low Sales Lime Tabular Explanation](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/low_sales_lime.png)
+
+
 
