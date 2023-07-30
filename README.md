@@ -126,12 +126,13 @@ Interpreting Our Model's Coefficients
   
 ## Explaining Models with SHAP
 
-### Global Explanations
+**SHAP Summary Plot**
 
-*SHAP Summary Plot*
 ![Shap Summary Plot](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/summary%20plot.png)
 
 - The SHAP plot has the same two top features and puts Outlet_Identifier_OUT027 higher than the other plots. It also show Item Visibility and Item Weight as less important features on Item Sales.
+
+**SHAP Dot Plot**
 
 ![Shap Summary Dot Plot](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/dot%20plot.png)
 
@@ -143,7 +144,11 @@ The top 3 features are:
 - **Outlet Identifier OUT027**
   - This is a binary, is or not is feature like Grocery stores. For these outlets that are labeled with this identifier sales go up and the opposite for not being this particular identifier.
 
-### Local Explanations
+## Local Explanations
+
+### High Selling Sample
+
+**Force Plot for High Sales Sample**
 
 ![High Sales Force Plot](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/high_sales_force_plot.png)
 
@@ -155,7 +160,18 @@ This force plots represents the highest selling store in our sample.
   - If it is NOT an Outlet Type Grocery Store
   - If it is NOT an Outlet with identifier OUT045
 
+**Lime Tabular Plot for High Sales Sample**
+
 ![High Sales Lime Tabular Explanation](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/high_sales_lime.png)
+
+- The store with highest sales in the sample had a predicted value of 6693.23 Rupees.
+ - Not being an Outlet Type Grocery Store was beneficial.
+ - Item MRP being above 180.25 Rupees was positive as well.
+ - The store not being identified as an OUT027 and not being a Type Supermarket Type 3 negatively affected this store.
+
+### Low Selling Sample 
+
+**Force Plot for Low Sales Sample**
 
 ![Low Sales Force Plot](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/low_sales_force_plot.png)
 
@@ -164,7 +180,15 @@ This force plots represents the lowest selling store in our sample.
   - Item MRP
   - That it is an Outlet Type Grocery Store
 
+**Lime Tabular Plot for Low Sales Sample**
+
 ![Low Sales Lime Tabular Explanation](https://github.com/evany24/Predictions-of-Product-Sales/blob/main/Images/low_sales_lime.png)
+
+- The store with the lowest sales shows some top features that affected it negatively:
+ - The store was an Outlet Type Grocery Store (=1)
+ - Item MRP was 35.22 Rupees
+ - It was not a Type Supermarket Type 3 or a store with identifier OUT027
+ - It appears that the store not selling Item types of Seafood or Breakfast foods were beneficial.
 
 
 
